@@ -1,0 +1,7 @@
+1 -> Install PHP zip file
+
+2 -> Make File Of PHP and move the zip file in this file.
+
+3 -> Extract the zip file in this File.
+
+4 -> add the path of this in : Environmental variable -> system variable -> path ( double click ) -> Edit -> add path.
